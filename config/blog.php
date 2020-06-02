@@ -11,7 +11,7 @@ return [
     'rss_size' => 25,
     'uploads' => [
         'storage' => 'public',
-        'webpath' => '/storage/uploads',
+        'webpath' => '/storage',
     ],
     'contact_email' => env('MAIL_FROM_ADDRESS')
 ];

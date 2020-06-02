@@ -161,7 +161,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img id="preview-image" src="x" class="img-responsive">
+                <img id="preview-image" src="" class="img-responsive" style="max-width: 100%;">
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">

@@ -46,3 +46,5 @@ Route::get('rss', 'BlogController@rss');
 
 // 站点地图
 Route::get('sitemap.xml', 'BlogController@siteMap');
+
+//test

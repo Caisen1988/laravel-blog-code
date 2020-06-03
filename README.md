@@ -18,6 +18,7 @@ DB_PASSWORD=root
 6. php artisan storage:link  
 7. php artisan key:generate 
 8. php artisan db:seed
-
-9. 配置laradoc中的nginx
-10. 浏览器验证
+9. 同级目录git clone https://github.com/laradock/laradock.git
+10. 配置laradoc中的nginx
+11. docker-compose up -d nginx mysql
+12. 浏览器验证

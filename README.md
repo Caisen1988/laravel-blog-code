@@ -25,3 +25,4 @@ Laravel 5.7 开发博客项目代码
 - php artisan db:seed
 - 配置laradoc中的nginx 
 - 浏览器验证
+

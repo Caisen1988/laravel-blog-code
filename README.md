@@ -13,12 +13,11 @@ DB_DATABASE=blog
 DB_USERNAME=root
 DB_PASSWORD=root
 ```
-
-5. 进入laradock_workspace的container
-6. php artisan storage:link  
-7. php artisan key:generate 
-8. php artisan db:seed
-9. 同级目录git clone https://github.com/laradock/laradock.git
-10. 配置laradoc中的nginx
-11. docker-compose up -d nginx mysql
+5. 同级目录git clone https://github.com/laradock/laradock.git
+6. docker-compose up -d nginx mysql
+7. 进入laradock_workspace的container
+8. php artisan storage:link  
+9. php artisan key:generate 
+10. php artisan db:seed
+11. 配置laradoc中的nginx 
 12. 浏览器验证

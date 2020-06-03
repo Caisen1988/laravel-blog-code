@@ -21,6 +21,7 @@ Laravel 5.7 开发博客项目代码
 - 进入laradock_workspace的container
 - php artisan storage:link  
 - php artisan key:generate 
+- php artisan migrate
 - php artisan db:seed
 - 配置laradoc中的nginx 
 - 浏览器验证

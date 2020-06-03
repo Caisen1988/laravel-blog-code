@@ -56,8 +56,8 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'admin@laravelacademy.org'),
-        'name' => env('MAIL_FROM_NAME', '学院君'),
+        'address' => env('MAIL_FROM_ADDRESS', 'silanhua@163.com'),
+        'name' => env('MAIL_FROM_NAME', 'NickCai'),
     ],
 
     /*
